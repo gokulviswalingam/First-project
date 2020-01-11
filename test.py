@@ -3,3 +3,5 @@ a = 4
 b = 6
 a+b= c
 print c
+b-c = d
+print d
